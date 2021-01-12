@@ -1,1 +1,1 @@
-# js_while_exercice1
+# js_while_exercice2
